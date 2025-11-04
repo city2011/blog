@@ -1,0 +1,6 @@
+[submodule "cityblog/themes/papermod~"]
+	path = cityblog/themes/papermod~
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "cityblog/themes/papermod"]
+	path = cityblog/themes/papermod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
